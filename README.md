@@ -1,4 +1,4 @@
-# vue-headless-csm
+# vue-serverless-cms
 
 ## Project setup
 ```
